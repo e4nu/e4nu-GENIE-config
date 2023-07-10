@@ -245,4 +245,15 @@
   <priority msgstream="gevgen_pghnl">        FATAL </priority>
   <priority msgstream="gevald_hnl">          FATAL </priority>
 
+  <priority msgstream="HINCLCascadeIntranuke"> ERROR </priority>
+  <priority msgstream="HG4BertCascIntranuke">  ERROR </priority>
+  <priority msgstream="HINCLCascadeIntranuke"> ERROR </priority>
+  <priority msgstream="HG4BertCascIntranuke">  ERROR </priority>
+  <priority msgstream="HINCLCascadeIntranuke"> ERROR </priority>
+  <priority msgstream="HG4BertCascIntranuke">  ERROR </priority>
+  <priority msgstream="HINCLCascadeIntranuke"> FATAL </priority>
+  <priority msgstream="HG4BertCascIntranuke">  FATAL </priority>
+  <priority msgstream="HINCLCascadeIntranuke"> ERROR </priority>
+  <priority msgstream="HG4BertCascIntranuke">  ERROR </priority>
+
 </messenger_config>
